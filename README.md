@@ -8,4 +8,4 @@ La información obtenda de los dos sensores se envian a través de internet a un
 
 Para su elaboración se han utilizado las librerias propias de la plataforma asi como la libreria [WiFiManager](https://github.com/tzapu/WiFiManager) para facilitar la configuración inicial del dispositivo, la libreria [max6675](https://github.com/adafruit/MAX6675-library) para la interacción con los sensores y la libreria [LiquidCrystal_I2C](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library) para la salida de los valores a trvés de un LCD I2C de [DFRobot](http://www.dfrobot.com/index.php)
 
-![alt text](file:///home/albert/Documentos/Proyectos/Complete/FirePrevent/FirePreventFirmware/FirePrevent_bb.svg "Sketch del dispositivo")
+![alt text](https://github.com/adomenech73/FirePrevent_firmware/raw/master/FirePrevent_bb.svg "Sketch del dispositivo")
